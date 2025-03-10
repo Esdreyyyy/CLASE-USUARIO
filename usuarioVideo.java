@@ -8,7 +8,7 @@ import java.util.*;
 
 /**
  *
- * @author Perla Díaz 
+ * @author Esdrey Moguel Diaz
  */
 public class usuarioVideo {
 
